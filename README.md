@@ -1,4 +1,4 @@
-# UofA-Virtual
+
 # Run Buddy
 
 ## Purpose
